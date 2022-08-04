@@ -34,7 +34,8 @@ body {
 }
 
 .nav-link:hover {
-    color: #C59720;
+    background-color: #C59720;
+    transition: .5s ease-in-out;
 }
 
 /* Akhir Nav */
